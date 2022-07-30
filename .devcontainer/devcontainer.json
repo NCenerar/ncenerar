@@ -21,6 +21,10 @@
 		35729
 	],
 
+	// Add environment variables to the container.
+	// The environment file should not be versionned if it contain secrets.
+	"runArgs": ["--env-file",".devcontainer/devcontainer.env"],
+
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"postCreateCommand": "sh .devcontainer/post-create.sh",
 
