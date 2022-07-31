@@ -1,3 +1,19 @@
+# Configuring Jekyll in your GitHub Pages site
+# You can configure most Jekyll settings, such as your site's theme
+# and plugins, by editing your _config.yml file.
+# For more information, see "Configuration" in the Jekyll documentation.
+# Some configuration settings cannot be changed for GitHub Pages sites.
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
