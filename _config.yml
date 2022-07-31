@@ -58,6 +58,8 @@ plugins:
   - jekyll-readme-index
   - jekyll-titles-from-headings
   - jekyll-relative-links
+# Optional for github pages but mandatory for minima theme
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
