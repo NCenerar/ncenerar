@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "mhutchie.git-graph",
+        "redhat.vscode-yaml",
+        "DavidAnson.vscode-markdownlint"
+    ]
+}
