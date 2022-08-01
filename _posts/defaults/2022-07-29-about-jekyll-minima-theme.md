@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "About Jekyll minima theme!"
-date:   2022-07-29 08:47:07 +0000
+title:  About Jekyll minima theme!
 categories: jekyll update
 ---
 
@@ -14,6 +13,5 @@ You can find the source code for Minima at GitHub:
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
-
 
 [jekyll-organization]: https://github.com/jekyll

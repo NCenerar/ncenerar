@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Welcome to GitHub Pages!"
-date:   2022-07-28 08:47:07 +0000
+title:  Welcome to GitHub Pages!
 categories: github pages update
 ---
 
