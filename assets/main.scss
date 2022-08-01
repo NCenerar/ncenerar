@@ -1,0 +1,19 @@
+---
+---
+
+@import "minima";
+
+// Do not edit before here
+
+.social-media-list li+li {
+    margin-left: 1em;
+    padding-top: 0;
+}
+
+.social-media-list {
+    display: flex;
+
+    & span {
+        display: none;
+    }
+}
