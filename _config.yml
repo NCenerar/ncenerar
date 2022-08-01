@@ -53,6 +53,7 @@ linkedin_username: nicolascenerario
 
 # Build settings
 theme: minima
+show_excerpts: true
 plugins:
   # Mandatory
   - jekyll-coffeescript
